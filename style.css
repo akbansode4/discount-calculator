@@ -13,6 +13,7 @@ body{
 
 }
 h2{
+    padding-top: 20px;
     font-weight: bolder;
     text-align: center;
     letter-spacing: 2px;
@@ -54,6 +55,7 @@ button:hover{
 }
 #total{
     margin-left: 230px;
+    padding-bottom: 20px;
 }
 footer{
     text-align: end;
